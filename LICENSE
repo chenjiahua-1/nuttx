@@ -6357,6 +6357,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 libs/libc/time/lib_localtime.c
+libs/libc/time/lib_strptime.c
 =================================
 
 Re-released as part of NuttX under the 3-clause BSD license:
